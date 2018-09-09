@@ -21,5 +21,7 @@ public class MainActivity extends AppCompatActivity {
     }
 
     public void goToMovie(View view) {
+
+        //Edited in MainActivity.java
     }
 }
